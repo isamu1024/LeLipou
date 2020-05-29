@@ -1,5 +1,6 @@
-# Le Lipous
-## 
+
+## Menus d'été
+
 ### Menu Petit lipous *(-12)*
 
 |         |                                                             |
