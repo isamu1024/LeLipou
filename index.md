@@ -15,10 +15,16 @@
 
 **Nos entrées**
 
-|                                |           |
-| :----------------------------- | --------: |
-| Eperlans                       | **6.00€** |
-| Assiette de coquillages farcis | **9.50€** |
+|                                |            |
+| :----------------------------- | ---------: |
+| Eperlans                       |  **6.00€** |
+| Assiette de coquillages farcis |  **9.50€** |
+| 6 huîtres                      |  **9.00€** |
+| 9 huîtres                      | **13.00€** |
+| 12 huîtres                     | **17.00€** |
+| Assiette campagnarde           |  **9.50€** |
+| Soupe de poissons (artisanale) |  **7.00€** |
+| Foie gras maison               | **13.00€** |
 
 
 ---
