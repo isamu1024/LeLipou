@@ -1,4 +1,3 @@
-## Carte  d'été
 
 ### Menu Petit lipous *(-12)*
 |         |                                                             |
