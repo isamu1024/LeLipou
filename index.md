@@ -10,8 +10,18 @@
 
 ---
 
+## Nos entrées
+
+|                                |       |
+| :----------------------------- | ----: |
+| Eperlans                       | 6.00€ |
+| Assiette de coquillages farcis | 9.50€ |
+
+
+---
 
 | Nos entrées                    |       |
 | :----------------------------- | ----: |
 | Eperlans                       | 6.00€ |
 | Assiette de coquillages farcis | 9.50€ |
+
