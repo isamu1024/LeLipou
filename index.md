@@ -1,7 +1,3 @@
-# Bienvenue au Lipous
-
----
-
 ## Menu Petit lipous *(-12)*
 
 |         |                                                             |
