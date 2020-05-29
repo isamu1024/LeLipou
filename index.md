@@ -1,6 +1,6 @@
 # Le Lipous
 
--  Menu Petit lipous *(-12)*
+## Menu Petit lipous *(-12)*
 
 |         |                                                             |
 | :------ | ----------------------------------------------------------: |
@@ -11,7 +11,7 @@
 
 ---
 
--  Nos entrées
+## Nos entrées
 
 |                                |           |
 | :----------------------------- | --------: |
@@ -21,7 +21,7 @@
 
 ---
 
--  Nos Moules frites
+## Nos Moules frites
 *suivant la saison*
 
 |                                                                  |            |
