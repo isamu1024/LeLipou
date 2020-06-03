@@ -49,6 +49,7 @@
 ---
 
 **Nos Plats**  
+
 |                                                                                                |            |
 | :--------------------------------------------------------------------------------------------- | ---------: |
 | Salade de chèvre (Salade, tomates, toasts de chèvre chaud, magret fumé, compotée oignon rouge) | **14,50€** |
