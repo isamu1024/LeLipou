@@ -30,7 +30,7 @@
 ---
 
 **Nos Moules frites**  
-*suivant la saison*
+*suivant la saison*  
 
 |                                                                  |            |
 | :--------------------------------------------------------------- | ---------: |
@@ -38,12 +38,13 @@
 | L’andouille (sauce : andouille, oignon, crème)                   | **13.50€** |
 | L’indienne (sauce : curry, moutarde à l’ancienne, oignon, crème) | **13.50€** |
 
-**La for'moule**
+**La for'moule**  
+
 |                                                                 |            |
 | :-------------------------------------------------------------- | ---------: |
 | (Moules-frites au choix + la bolée de cidre ou le verre de vin) | **15,00€** |
 
-**Nos Plats**
+**Nos Plats**  
 |                                                                                                |            |
 | :--------------------------------------------------------------------------------------------- | ---------: |
 | Salade de chèvre (Salade, tomates, toasts de chèvre chaud, magret fumé, compotée oignon rouge) | **14,50€** |
@@ -58,7 +59,7 @@
 | Frites maison                                                                                  |  **4,00€** |
 | Supplément sauce                                                                               |  **1,00€** |
 
-**Nos Burgers**
+**Nos Burgers**  
 
 |                                                                                                    |            |
 | :------------------------------------------------------------------------------------------------- | ---------: |
@@ -67,7 +68,7 @@
 | Le végétarien (steak végétarien, crème ciboulette, tomate, oignons grillés et fromage de chèvre)   | **14,50€** |
 | Le Bagnat (saumon fumé, tomate, guacamole, oignons grillés)                                        | **15,00€** |
 
-**Nos desserts**
+**Nos desserts**  
 
 |                                       |            |
 | :------------------------------------ | ---------: |
@@ -80,14 +81,14 @@
 | Thé ou Tisane lipous (Damman)         |  **8,00€** |
 | Coupe de Champagne ou Digestif lipous | **14,00€** |
 
-**Nos Glaces**
+**Nos Glaces**  
 
 | 1 boule **2,90€** | 2 boules **4,90€** | 3 boules **6,50€** |
 | :---------------: | :----------------: | :----------------: |
 >Vanille, Chocolat, Café, Fraise, Framboise, Cassis, Pomme, Poire, Citron,
 >Palet Breton, Caramel beurre salé
 
-**Nos Sorbets Alcoolisés**
+**Nos Sorbets Alcoolisés**  
 
 |                                                   |           |
 | :------------------------------------------------ | --------: |
