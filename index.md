@@ -95,9 +95,9 @@
 
 **Nos Glaces**  
 
-| 1 boule **2,90€** | 2 boules **4,90€** | 3 boules **6,50€** |
+|                   |                    |                    |
 | :---------------: | :----------------: | :----------------: |
-|                   |                    |
+| 1 boule **2,90€** | 2 boules **4,90€** | 3 boules **6,50€** |
 
 Vanille, Chocolat, Café, Fraise, Framboise, Cassis, Pomme, Poire, Citron,  
 Palet Breton, Caramel beurre salé
