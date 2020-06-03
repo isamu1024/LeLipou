@@ -38,11 +38,15 @@
 | L’andouille (sauce : andouille, oignon, crème)                   | **13.50€** |
 | L’indienne (sauce : curry, moutarde à l’ancienne, oignon, crème) | **13.50€** |
 
+---
+
 **La for'moule**  
 
 |                                                                 |            |
 | :-------------------------------------------------------------- | ---------: |
 | (Moules-frites au choix + la bolée de cidre ou le verre de vin) | **15,00€** |
+
+---
 
 **Nos Plats**  
 |                                                                                                |            |
@@ -59,6 +63,8 @@
 | Frites maison                                                                                  |  **4,00€** |
 | Supplément sauce                                                                               |  **1,00€** |
 
+---
+
 **Nos Burgers**  
 
 |                                                                                                    |            |
@@ -67,6 +73,9 @@
 | Le maxi lipous (2 steaks haché, tommes de Vaumadeuc, tomates, compotée d’oignons et sauce ketchup) | **19,00€** |
 | Le végétarien (steak végétarien, crème ciboulette, tomate, oignons grillés et fromage de chèvre)   | **14,50€** |
 | Le Bagnat (saumon fumé, tomate, guacamole, oignons grillés)                                        | **15,00€** |
+
+
+---
 
 **Nos desserts**  
 
@@ -81,12 +90,17 @@
 | Thé ou Tisane lipous (Damman)         |  **8,00€** |
 | Coupe de Champagne ou Digestif lipous | **14,00€** |
 
+---
+
 **Nos Glaces**  
 
 | 1 boule **2,90€** | 2 boules **4,90€** | 3 boules **6,50€** |
 | :---------------: | :----------------: | :----------------: |
+
 >Vanille, Chocolat, Café, Fraise, Framboise, Cassis, Pomme, Poire, Citron,
 >Palet Breton, Caramel beurre salé
+
+---
 
 **Nos Sorbets Alcoolisés**  
 
@@ -97,3 +111,4 @@
 | Normandie (2 boules pommes, calvados)             | **8,00€** |
 | Mojito (2 boules citron, rhum, feuille de menthe) | **8,50€** |
 
+---
