@@ -95,20 +95,24 @@
 
 **Nos Glaces**  
 
-|                                                                                                         |                    |                    |
-| :-----------------------------------------------------------------------------------------------------: | :----------------: | :----------------: |
-|                                            1 boule **2,90€**                                            | 2 boules **4,90€** | 3 boules **6,50€** |
-|                   *Vanille, Chocolat, Café, Fraise, Framboise, Cassis, Pomme, Poire*                    |                    |                    |
-|                               *Citron,Palet Breton, Caramel beurre salé*                                |                    |                    |
-|                        *Pomme, Poire, Citron,Palet Breton, Caramel beurre salé*                         |                    |                    |
-|                                                   ---                                                   |                    |                    |
-|                      Dame blanche *(3 boules vanilles, sauce chocolat, Chantilly)*                      |                    |     **7.50€**      |
-|                   Chocolat liégeois *(3 boules chocolats, sauce chocolat, Chantilly)*                   |                    |     **8.00€**      |
-|                         Café liégeois *(3 boules café, sauce café, chantilly)*                          |                    |     **8.00€**      |
-| Dame fruitée *(1 boule fraise, 1 boule framboise, 1 boule cassis, coulis de fruits rouges, chantilly)*  |                    |     **8.00€**      |
-| Banana split *(1 banane, 1 boule vanille, 1 boule fraise, 1 boule chocolat, sauce chocolat, chantilly)* |                    |     **9.00€**      |
-|           Coupe bretonne *(2 boules  Palets Breton, 1 boule caramel sauce caramel chantilly)*           |                    |     **8.00€**      |
-|                                          Supplément Chantilly                                           |                    |     **1.00€**      |
+|                                                                    |                    |                    |
+| :----------------------------------------------------------------- | :----------------: | :----------------: |
+| 1 boule **2,90€**                                                  | 2 boules **4,90€** | 3 boules **6,50€** |
+| *Vanille, Chocolat, Café, Fraise, Framboise, Cassis, Pomme, Poire* |                    |                    |
+| *Citron,Palet Breton, Caramel beurre salé*                         |                    |                    |
+| *Pomme, Poire, Citron,Palet Breton, Caramel beurre salé*           |                    |                    |
+
+---
+
+|                                                                                                         |       |           |
+| :------------------------------------------------------------------------------------------------------ | :---: | :-------: |
+| Dame blanche *(3 boules vanilles, sauce chocolat, Chantilly)*                                           |       | **7.50€** |
+| Chocolat liégeois *(3 boules chocolats, sauce chocolat, Chantilly)*                                     |       | **8.00€** |
+| Café liégeois *(3 boules café, sauce café, chantilly)*                                                  |       | **8.00€** |
+| Dame fruitée *(1 boule fraise, 1 boule framboise, 1 boule cassis, coulis de fruits rouges, chantilly)*  |       | **8.00€** |
+| Banana split *(1 banane, 1 boule vanille, 1 boule fraise, 1 boule chocolat, sauce chocolat, chantilly)* |       | **9.00€** |
+| Coupe bretonne *(2 boules  Palets Breton, 1 boule caramel sauce caramel chantilly)*                     |       | **8.00€** |
+| Supplément Chantilly                                                                                    |       | **1.00€** |
 
 
 ---
